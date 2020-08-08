@@ -39,7 +39,7 @@ public class ActivityOne extends AppCompatActivity {
     @Override
     public void onResume(){
         super.onResume();
-        Log.i(tag: "Lifecycle", msg:  "OnResume() invoked");
+        Log.i(tag "Lifecycle", msg  "OnResume() invoked");
 
     }
 
